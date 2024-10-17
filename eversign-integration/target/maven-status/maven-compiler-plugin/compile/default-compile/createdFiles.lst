@@ -1,0 +1,5 @@
+com\example\eversign_integration\EversignIntegrationApplication.class
+com\example\eversign_integration\controller\DocumentController.class
+com\example\eversign_integration\controller\HomeController.class
+com\example\eversign_integration\config\AppConfig.class
+com\example\eversign_integration\service\EversignService.class
